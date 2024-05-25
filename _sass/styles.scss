@@ -1,0 +1,87 @@
+// Custom styles
+
+li.post {
+  list-style-type: none;
+}
+
+/* Paginator */
+
+.pagination {
+  text-align: center;
+  margin: 2.666668em;
+
+  span {
+    background-color: darken($background-color, 5%);
+    color: $text-color;
+  }
+
+  a:hover {
+    background-color: lighten($secondary-color, 5%);
+  }
+}
+
+.page-item {
+  background-color: $secondary-color;
+  color: $background-color;
+  font-weight: 300;
+  padding: 0.5em 1em;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.by-line {
+  max-width: none;
+  font-size: .8em;
+  font-style: italic;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  display: block;
+  font-weight: 400;
+  line-height: 1.3em;
+  color: #ccc;
+}
+
+.description {
+  margin: 0;
+  padding-bottom: 25px;
+  line-height: 1.8em;
+  font-size: .8em;
+  font-weight: 400;
+  font-family: 'Microsoft Yahei',
+    sans-serif;
+}
+
+.post p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin: 0;
+  padding-bottom: 25px;
+  line-height: 1.8em;
+  font-size: .9rem;
+  font-weight: 400;
+}
+
+ul li,
+ol li {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin: 0;
+  // padding-bottom: 25px;
+  line-height: 1.8em;
+  font-size: .8rem;
+  font-weight: 500;
+  font-family: microsoft yahei;
+}
+
+ul li p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin: 0;
+  padding-bottom: 25px;
+  line-height: 1.8em;
+  font-size: .8rem !important;
+  font-weight: 500;
+  font-family: microsoft yahei;
+}

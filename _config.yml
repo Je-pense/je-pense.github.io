@@ -1,0 +1,42 @@
+# Site settings
+title: 思 · 故是
+description: "A traveller in this world, a traveller for that world. What do you want to say? Whom do you like to talk?"
+keywords: "This Shore, That Shore, Culture, History, Religion, Belief"
+tagline: "Travel on the way in my heart"
+author:
+  name: "思故是"
+  email: "winwinsfu@gmail.com"
+  url: "https://je-pense.github.io/blog/"
+
+# Build settings
+baseurl: # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+sass:
+  sass_dir: _sass
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
