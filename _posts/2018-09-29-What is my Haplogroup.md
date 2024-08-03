@@ -26,21 +26,21 @@ X 染色體對於某一個具體的人，無論是男性還是女性，是可追
 
 對於 Y 染色體研究的不斷深化，人們知道 Y 染色體在時間的長河中會打上不同的變遷的記號（即所謂基因突變），由於相同地域的人高密度地具備某一特定的記號，則這個記號不僅可以代表年代，還能代表遷徙的路徑。如果把最早走出非洲的人類的 Y 單倍群標記為 A，那麼隨著時間的推移及地域的擴散，Y 染色體單倍群變遷的記錄（以英文字母為標記），從 A 到 T 共有 20 個單倍群。圖例：
 
-<p align="center"><img src="/blog/public/images/y-dna.png" alt="人類Y染色體DNA單倍型類群"></p>
+<p align="center"><img src="/public/images/y-dna.png" alt="人類Y染色體DNA單倍型類群"></p>
 
-<p align="center"><img src="/blog/public/images/dna-transfer.png" alt="人類Y染色體DNA單倍型世界地圖"></p>
+<p align="center"><img src="/public/images/dna-transfer.png" alt="人類Y染色體DNA單倍型世界地圖"></p>
 
 其中我們中國人，或者再廣闊些，東亞、東北亞和東南亞人的單倍群類型主要為 D、O、N、P、Q、C2，而 O-M175 下的 O-M122 型單倍群占了中國漢族男性的一半以上的比例，O 型是中國漢族男性的主要單倍群類別。
 
-<p align="center"><img src="/blog/public/images/o-haplogroup.png" alt="O型單倍群分佈世界地圖"></p>
+<p align="center"><img src="/public/images/o-haplogroup.png" alt="O型單倍群分佈世界地圖"></p>
 
 [23andme](https://23andme.com)給我的測試結果顯示我的父系單倍群為基於 O-M122 下的 O-M5420。具體是個什麼意思，我自己做了點功夫。
 
-<p align="center"><img src="/blog/public/images/o-m1359.png" alt="O-m1359型單倍群分佈世界地圖"></p>
+<p align="center"><img src="/public/images/o-m1359.png" alt="O-m1359型單倍群分佈世界地圖"></p>
 
 再上一張有 O-M122 的圖片。
 
-<p align="center"><img src="/blog/public/images/o-m122.jpg" alt="O-m122型單倍群遷徙圖"></p>
+<p align="center"><img src="/public/images/o-m122.jpg" alt="O-m122型單倍群遷徙圖"></p>
 
 - 約 6 萬年前，我的祖上從非洲越過紅海，到達西亞，彼時的單倍群為 F-M89；
 - 約 5 萬年前，他們經過中東，到達中亞草原，那時他們的單倍體已經突變為 K-M9；
