@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的單倍群是O2A1C1A1A
-description: 在23andme上做了單倍群（Haplogroup）基因測試，讓我告訴你我是誰，我從哪兒來。
+description: 在23andme上做了單倍群（Haplogroup）基因測試。讓我告訴你我是誰，我從哪兒來。
 keywords:
   - Haplogroup
   - O-M5420
